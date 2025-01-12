@@ -1,6 +1,9 @@
 # Heroes-of-Might-and-Magic
 Разработка стратегии в стиле боя в игре "Герои Меча и Магии 3" против искусственного интеллекта
 
+![image](https://github.com/user-attachments/assets/7d67bda9-8910-436d-b3e4-b16777d5f006)
+
+
 Расчёты алгоритмов сложности:
 
 Алгоритм интерфейса SuitableForAttackUnitsFinder
